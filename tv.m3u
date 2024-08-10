@@ -1,0 +1,443 @@
+#EXTINF:1,重庆卫视HD
+http://39.134.2.22:6610/000000001666/100000000100111017/1.m3u8?channel-id=ystenlive&Contentid=100000000100111017&livemode=1
+#EXTINF:2,重庆新闻HD
+http://192.168.101.1:8888/udp/239.253.112.2:9000
+#EXTINF:3,重庆影视HD
+http://192.168.101.1:8888/udp/239.253.112.3:9000
+#EXTINF:4,重庆社会与法HD
+http://192.168.101.1:8888/udp/239.253.112.4:9000
+#EXTINF:5,重庆时尚生活HD
+http://192.168.101.1:8888/udp/239.253.112.5:9000
+#EXTINF:6,重庆娱乐HD
+http://192.168.101.1:8888/udp/239.253.112.6:9000
+#EXTINF:7,重庆新农村HD
+http://192.168.101.1:8888/udp/239.253.112.7:9000
+#EXTINF:8,重庆少儿HD
+http://192.168.101.1:8888/udp/239.253.112.8:9000
+#EXTINF:9,CQTV科教HD
+http://192.168.101.1:8888/udp/239.253.112.9:9000
+#EXTINF:11,重庆汽摩HD
+http://192.168.101.1:8888/udp/239.253.112.11:9000
+#EXTINF:17,CCTV-1高清
+http://39.134.2.22:6610/000000001666/100000000100111211/1.m3u8?channel-id=ystenlive&Contentid=100000000100111211&livemode=1
+#EXTINF:18,CCTV-2高清
+http://39.134.2.22:6610/000000001666/100000000100111001/1.m3u8?channel-id=ystenlive&Contentid=100000000100111001&livemode=1
+#EXTINF:19,CCTV-3高清
+http://39.134.2.22:6610/000000001666/100000000100111002/1.m3u8?channel-id=ystenlive&Contentid=100000000100111002&livemode=1
+#EXTINF:20,CCTV-4高清
+http://39.134.2.22:6610/000000001666/100000000100111003/1.m3u8?channel-id=ystenlive&Contentid=100000000100111003&livemode=1
+#EXTINF:345,CCTV-5高清
+http://192.168.101.1:8888/udp/239.253.112.21:9000
+#EXTINF:21,超级体育
+http://39.134.2.22:6610/000000001666/100000000100111004/1.m3u8?channel-id=ystenlive&Contentid=100000000100111004&livemode=1
+#EXTINF:73,CCTV-5+高清
+http://39.134.2.22:6610/000000001666/100000000100111005/1.m3u8?channel-id=ystenlive&Contentid=100000000100111005&livemode=1
+#EXTINF:22,CCTV-6高清
+http://39.134.2.22:6610/000000001666/100000000100111006/1.m3u8?channel-id=ystenlive&Contentid=100000000100111006&livemode=1
+#EXTINF:23,CCTV-7高清
+http://39.134.2.22:6610/000000001666/100000000100111007/1.m3u8?channel-id=ystenlive&Contentid=100000000100111007&livemode=1
+#EXTINF:346,CCTV-8高清
+http://192.168.101.1:8888/udp/239.253.112.24:9000
+#EXTINF:24,超级电视剧
+http://39.134.2.22:6610/000000001666/100000000100111008/1.m3u8?channel-id=ystenlive&Contentid=100000000100111008&livemode=1
+#EXTINF:25,CCTV-9高清
+http://39.134.2.22:6610/000000001666/100000000100111009/1.m3u8?channel-id=ystenlive&Contentid=100000000100111009&livemode=1
+#EXTINF:26,CCTV-10高清
+http://39.134.2.22:6610/000000001666/100000000100111010/1.m3u8?channel-id=ystenlive&Contentid=100000000100111010&livemode=1
+#EXTINF:27,CCTV-12高清
+http://39.134.2.22:6610/000000001666/100000000100111012/1.m3u8?channel-id=ystenlive&Contentid=100000000100111012&livemode=1
+#EXTINF:28,CCTV-13
+http://39.134.2.22:6610/000000001666/100000000100111013/1.m3u8?channel-id=ystenlive&Contentid=100000000100111013&livemode=1
+#EXTINF:29,CCTV-14高清
+http://39.134.2.22:6610/000000001666/100000000100111014/1.m3u8?channel-id=ystenlive&Contentid=100000000100111014&livemode=1
+#EXTINF:30,CCTV-15
+http://39.134.2.22:6610/000000001666/100000000100111015/1.m3u8?channel-id=ystenlive&Contentid=100000000100111015&livemode=1
+#EXTINF:722,CCTV-16奥林匹克
+http://39.134.2.22:6610/000000001666/100000000100111092/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:723,CCTV-17农业农村
+http://39.134.2.22:6610/000000001666/100000000100111016/1.m3u8?channel-id=ystenlive&Contentid=100000000100111016&livemode=1
+#EXTINF:723,cctv-4k
+http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+#EXTINF:72,精品体育
+http://39.134.2.22:6610/000000001666/100000000100111074/1.m3u8?channel-id=ystenlive&Contentid=100000000100111074&livemode=1
+#EXTINF:72,冬奥纪实
+http://39.134.2.22:6610/000000001666/100000000100111076/1.m3u8?channel-id=ystenlive&Contentid=100000000100111076&livemode=1
+#EXTINF:72,金鹰纪实
+http://39.134.2.22:6610/000000001666/100000000100111078/1.m3u8?channel-id=ystenlive&Contentid=100000000100111078&livemode=1
+#EXTINF:72,纪实人文
+http://39.134.2.22:6610/000000001666/100000000100111080/1.m3u8?channel-id=ystenlive&Contentid=100000000100111080&livemode=1
+#EXTINF:72,精品记录
+http://39.134.3.73:6610/000000001666/100000000100111070/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:72,爱科学
+http://39.134.3.73:6610/000000001666/100000000100111207/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:72,爱奇迹
+http://39.134.3.73:6610/000000001666/100000000100111201/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:72,爱体育
+http://39.134.3.73:6610/000000001666/100000000100111206/1.m3u8?IASHttpSessionId=OTT
+#EXTINF:72,咪咕4K
+http://39.134.2.22:6610/000000001666/100000000100111083/1.m3u8?channel-id=ystenlive&Contentid=100000000100111083&livemode=1
+#EXTINF:72,咪咕体育1
+http://39.134.2.22:6610/000000001666/100000000100111093/1.m3u8?channel-id=ystenlive&Contentid=100000000100111093&livemode=1
+#EXTINF:72,咪咕体育2
+http://39.134.2.22:6610/000000001666/100000000100111094/1.m3u8?channel-id=ystenlive&Contentid=100000000100111094&livemode=1
+#EXTINF:72,咪咕体育3
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=3
+#EXTINF:72,咪咕体育4
+http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=3
+#EXTINF:72,咪咕体育5
+http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=3
+#EXTINF:72,咪咕体育6
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=3
+#EXTINF:72,咪咕体育7
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=3
+#EXTINF:72,咪咕体育8
+http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=3
+#EXTINF:72,咪咕体育9
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=3
+#EXTINF:72,咪咕体育10
+http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
+#EXTINF:72,咪咕体育11
+http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
+#EXTINF:72,咪咕体育12
+http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=3
+#EXTINF:72,咪咕体育13
+http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=3
+#EXTINF:72,咪咕体育14
+http://gslbserv.itv.cmvideo.cn:80/2000000003000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000060&livemode=1&stbId=3
+#EXTINF:72,咪咕体育15
+http://gslbserv.itv.cmvideo.cn:80/2000000003000000061/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000061&livemode=1&stbId=3
+#EXTINF:72,咪咕体育16
+http://gslbserv.itv.cmvideo.cn:80/2000000003000000062/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000062&livemode=1&stbId=3
+#EXTINF:72,咪咕体育17
+http://gslbserv.itv.cmvideo.cn:80/2000000003000000063/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000063&livemode=1&stbId=3
+#EXTINF:72,咪咕体育18
+http://gslbserv.itv.cmvideo.cn:80/2000000003000000064/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000064&livemode=1&stbId=3
+#EXTINF:72,咪咕体育19
+http://gslbserv.itv.cmvideo.cn:80/2000000003000000065/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000065&livemode=1&stbId=3
+#EXTINF:72,纪实频道HD
+http://192.168.101.1:8888/udp/239.253.112.72:9000
+#EXTINF:172,地理
+http://192.168.101.1:8888/udp/239.253.112.172:9000
+#EXTINF:176,解密
+http://192.168.101.1:8888/udp/239.253.112.176:9000
+#EXTINF:177,军事
+http://192.168.101.1:8888/udp/239.253.112.177:9000
+#EXTINF:54,东南卫视HD
+http://39.134.2.22:6610/000000001666/100000000100111028/1.m3u8?channel-id=ystenlive&Contentid=100000000100111028&livemode=1
+#EXTINF:36,江苏卫视高清
+http://39.134.2.22:6610/000000001666/100000000100111020/1.m3u8?channel-id=ystenlive&Contentid=100000000100111020&livemode=1
+#EXTINF:37,浙江卫视高清
+http://39.134.2.22:6610/000000001666/100000000100111021/1.m3u8?channel-id=ystenlive&Contentid=100000000100111021&livemode=1
+#EXTINF:38,东方卫视高清
+http://39.134.2.22:6610/000000001666/100000000100111019/1.m3u8?channel-id=ystenlive&Contentid=100000000100111019&livemode=1
+#EXTINF:39,深圳卫视高清
+http://39.134.2.22:6610/000000001666/100000000100111022/1.m3u8?channel-id=ystenlive&Contentid=100000000100111022&livemode=1
+#EXTINF:40,北京卫视高清
+http://39.134.2.22:6610/000000001666/100000000100111018/1.m3u8?channel-id=ystenlive&Contentid=100000000100111018&livemode=1
+#EXTINF:41,深圳卫视高清
+http://39.134.2.22:6610/000000001666/100000000100111022/1.m3u8?channel-id=ystenlive&Contentid=100000000100111022&livemode=1
+#EXTINF:42,湖南卫视高清
+http://39.134.2.22:6610/000000001666/100000000100111023/1.m3u8?channel-id=ystenlive&Contentid=100000000100111023&livemode=1
+#EXTINF:43,贵州卫视高清
+http://39.134.2.22:6610/000000001666/100000000100111034/1.m3u8?channel-id=ystenlive&Contentid=100000000100111034&livemode=1
+#EXTINF:44,四川卫视高清
+http://39.134.2.22:6610/000000001666/100000000100111029/1.m3u8?channel-id=ystenlive&Contentid=100000000100111029&livemode=1
+#EXTINF:45,云南卫视
+http://192.168.101.1:8888/udp/239.253.112.45:9000
+#EXTINF:46,广西卫视
+http://192.168.101.1:8888/udp/239.253.112.46:9000
+#EXTINF:47,黑龙江卫视高清
+http://192.168.101.1:8888/udp/239.253.112.47:9000
+#EXTINF:48,安徽卫视高清
+http://192.168.101.1:8888/udp/239.253.112.48:9000
+#EXTINF:49,山西卫视
+http://192.168.101.1:8888/udp/239.253.112.49:9000
+#EXTINF:50,江西卫视
+http://192.168.101.1:8888/udp/239.253.112.50:9000
+#EXTINF:51,湖北卫视高清
+http://192.168.101.1:8888/udp/239.253.112.51:9000
+#EXTINF:53,陕西卫视
+http://192.168.101.1:8888/udp/239.253.112.53:9000
+#EXTINF:56,辽宁卫视高清
+http://192.168.101.1:8888/udp/239.253.112.56:9000
+#EXTINF:57,内蒙古卫视
+http://192.168.101.1:8888/udp/239.253.112.57:9000
+#EXTINF:60,河南卫视
+http://192.168.101.1:8888/udp/239.253.112.60:9000
+#EXTINF:61,河北卫视高清
+http://192.168.101.1:8888/udp/239.253.112.61:9000
+#EXTINF:62,宁夏卫视
+http://192.168.101.1:8888/udp/239.253.112.62:9000
+#EXTINF:63,甘肃卫视
+http://192.168.101.1:8888/udp/239.253.112.63:9000
+#EXTINF:64,少儿动画
+http://192.168.101.1:8888/udp/239.253.112.64:9000
+#EXTINF:66,金鹰卡通.
+http://192.168.101.1:8888/udp/239.253.112.66:9000
+#EXTINF:67,嘉佳卡通.
+http://192.168.101.1:8888/udp/239.253.112.67:9000
+#EXTINF:68,魅力时尚
+http://192.168.101.1:8888/udp/239.253.112.68:9000
+#EXTINF:69,青海卫视
+http://192.168.101.1:8888/udp/239.253.112.69:9000
+#EXTINF:70,新疆卫视
+http://192.168.101.1:8888/udp/239.253.112.70:9000
+#EXTINF:71,西藏卫视
+http://192.168.101.1:8888/udp/239.253.112.71:9000
+#EXTINF:74,IPTV3+
+http://192.168.101.1:8888/udp/239.253.112.74:9000
+#EXTINF:75,IPTV5+
+http://192.168.101.1:8888/udp/239.253.112.75:9000
+#EXTINF:76,IPTV6+
+http://192.168.101.1:8888/udp/239.253.112.76:9000
+#EXTINF:77,IPTV8+
+http://192.168.101.1:8888/udp/239.253.112.77:9000
+#EXTINF:78,CCTV-11
+http://192.168.101.1:8888/udp/239.253.112.78:9000
+#EXTINF:79,CGTN
+http://192.168.101.1:8888/udp/239.253.112.79:9000
+#EXTINF:81,收视指南.
+http://192.168.101.1:8888/udp/239.253.112.81:9000
+#EXTINF:162,IPTV谍战剧场
+http://192.168.101.1:8888/udp/239.253.112.162:9000
+#EXTINF:163,IPTV相声小品
+http://192.168.101.1:8888/udp/239.253.112.163:9000
+#EXTINF:164,IPTV野外
+http://192.168.101.1:8888/udp/239.253.112.164:9000
+#EXTINF:165,IPTV法治
+http://192.168.101.1:8888/udp/239.253.112.165:9000
+#EXTINF:166,热播剧场
+http://192.168.101.1:8888/udp/239.253.112.166:9000
+#EXTINF:167,经典电影
+http://192.168.101.1:8888/udp/239.253.112.167:9000
+#EXTINF:168,城市剧场
+http://192.168.101.1:8888/udp/239.253.112.168:9000
+#EXTINF:169,军旅剧场
+http://192.168.101.1:8888/udp/239.253.112.169:9000
+#EXTINF:170,古装剧场
+http://192.168.101.1:8888/udp/239.253.112.170:9000
+#EXTINF:171,音乐现场
+http://192.168.101.1:8888/udp/239.253.112.171:9000
+#EXTINF:173,美妆
+http://192.168.101.1:8888/udp/239.253.112.173:9000
+#EXTINF:174,美人
+http://192.168.101.1:8888/udp/239.253.112.174:9000
+#EXTINF:175,精选
+http://192.168.101.1:8888/udp/239.253.112.175:9000
+#EXTINF:178,国学
+http://192.168.101.1:8888/udp/239.253.112.178:9000
+#EXTINF:179,戏曲
+http://192.168.101.1:8888/udp/239.253.112.179:9000
+#EXTINF:180,早教
+http://192.168.101.1:8888/udp/239.253.112.180:9000
+#EXTINF:181,动画
+http://192.168.101.1:8888/udp/239.253.112.181:9000
+#EXTINF:183,好学生
+http://192.168.101.1:8888/udp/239.253.112.183:9000
+#EXTINF:184,鉴赏
+http://192.168.101.1:8888/udp/239.253.112.184:9000
+#EXTINF:185,墨宝
+http://192.168.101.1:8888/udp/239.253.112.185:9000
+#EXTINF:186,光影
+http://192.168.101.1:8888/udp/239.253.112.186:9000
+#EXTINF:187,台球
+http://192.168.101.1:8888/udp/239.253.112.187:9000
+#EXTINF:188,爱生活
+http://192.168.101.1:8888/udp/239.253.112.188:9000
+#EXTINF:189,武术
+http://192.168.101.1:8888/udp/239.253.112.189:9000
+#EXTINF:190,高网
+http://192.168.101.1:8888/udp/239.253.112.190:9000
+#EXTINF:191,足球
+http://192.168.101.1:8888/udp/239.253.112.191:9000
+#EXTINF:192,武侠剧场
+http://192.168.101.1:8888/udp/239.253.112.192:9000
+#EXTINF:193,喜剧影院
+http://192.168.101.1:8888/udp/239.253.112.193:9000
+#EXTINF:194,动作影院
+http://192.168.101.1:8888/udp/239.253.112.194:9000
+#EXTINF:195,家庭影院
+http://192.168.101.1:8888/udp/239.253.112.195:9000
+#EXTINF:196,星影
+http://192.168.101.1:8888/udp/239.253.112.196:9000
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
+https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
+https://live.metshop.top/bestv.php?id=cctv4k/15000000
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4k
+https://live.metshop.top/bestv.php?id=hxjc4k/15000000
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
+https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 8M
+https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3 8M
+https://live.metshop.top/bestv.php?id=cctv38m/8000000
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4 8M
+https://live.metshop.top/bestv.php?id=cctv4hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5 8M
+https://live.metshop.top/bestv.php?id=cctv58m/8000000
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+ 8M
+https://live.metshop.top/bestv.php?id=cctv5phd8m/8000000
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6 8M
+https://live.metshop.top/bestv.php?id=cctv6hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7 8M
+https://live.metshop.top/bestv.php?id=cctv7hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8 8M
+https://live.metshop.top/bestv.php?id=cctv8hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9 8M
+https://live.metshop.top/bestv.php?id=cctv9hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10 8M
+https://live.metshop.top/bestv.php?id=cctv10hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11 8M
+https://live.metshop.top/bestv.php?id=cctv11hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12 8M
+https://live.metshop.top/bestv.php?id=cctv12hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13 8M
+https://live.metshop.top/bestv.php?id=cctv13xwhd8m/8000000
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14 8M
+https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15 8M
+https://live.metshop.top/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16 8M
+https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17 8M
+https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视 8M
+https://live.metshop.top/bestv.php?id=jswshd8m/8000000
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视 8M
+https://live.metshop.top/bestv.php?id=gxwshd8m/8000000
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视 8M
+https://live.metshop.top/bestv.php?id=scwshd/8000000
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视 8M
+https://live.metshop.top/bestv.php?id=hunanwshd8m/8000000
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视 8M
+https://live.metshop.top/bestv.php?id=zjwshd8m/8000000
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 8M
+https://live.metshop.top/bestv.php?id=dfwshd8m/8000000
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视 8M
+https://live.metshop.top/bestv.php?id=bjwshd8m/8000000
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视 8M
+https://live.metshop.top/bestv.php?id=tjwshd8m/8000000
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视 8M
+https://live.metshop.top/bestv.php?id=lnwshd8m/8000000
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视 8M
+https://live.metshop.top/bestv.php?id=ahwshd8m/8000000
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视 8M
+https://live.metshop.top/bestv.php?id=hljwshd8m/8000000
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视 8M
+https://live.metshop.top/bestv.php?id=gdwshd8m/8000000
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视 8M
+https://live.metshop.top/bestv.php?id=szwshd8m/8000000
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视 8M
+https://live.metshop.top/bestv.php?id=hubeiws8m/8000000
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视 8M
+https://live.metshop.top/bestv.php?id=jlwshd8m/8000000
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视 8M
+https://live.metshop.top/bestv.php?id=sdws8m/8000000
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视 8M
+https://live.metshop.top/bestv.php?id=jxws8m/8000000
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视 8M
+https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视 8M
+https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视 8M
+https://live.metshop.top/bestv.php?id=gswshd8m/8000000
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视 8M
+https://live.metshop.top/bestv.php?id=cqws8m/8000000
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视 8M
+https://live.metshop.top/bestv.php?id=dnwshd8m/8000000
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视 8M
+https://live.metshop.top/bestv.php?id=ynwshd8m/8000000
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视 8M
+https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视 8M
+https://live.metshop.top/bestv.php?id=hainanwshd8m/8000000
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场 8M
+https://live.metshop.top/bestv.php?id=hxjc8m/8000000
+#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育 8M
+https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓 8M
+https://live.metshop.top/bestv.php?id=klcd8m/8000000
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实 8M
+https://live.metshop.top/bestv.php?id=jyjs8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png" group-title="其他",戏曲精选 8M
+https://live.metshop.top/bestv.php?id=xqjx8m/8000000
+#EXTINF:-1 tvg-id="上海第一财*" tvg-name="上海第一财*" tvg-logo="https://epg.112114.xyz/logo/上海第一财*.png" group-title="上海",上海第一财* 8M
+https://live.metshop.top/bestv.php?id=dycjhd8m/8000000
+#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="其他",上视新闻 8M
+https://live.metshop.top/bestv.php?id=xwzhhd8m/8000000
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市 8M
+https://live.metshop.top/bestv.php?id=dshd8m/8000000
+#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实 8M
+https://live.metshop.top/bestv.php?id=jspdhd/4000000
+#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="其他",东方影视 8M
+https://live.metshop.top/bestv.php?id=dfyshd8m/8000000
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他",五星体育 8M
+https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000
+#EXTINF:-1 tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上视外语.png" group-title="其他",上视外语 8M
+https://live.metshop.top/bestv.php?id=icshd8m/8000000
+#EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="其他",七彩戏剧 8M
+https://live.metshop.top/bestv.php?id=qcxjhd8m/8000000
+#EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png" group-title="上海",上海教育 8M
+https://live.metshop.top/bestv.php?id=setvhd/8000000
+#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="其他",全纪实 8M
+https://live.metshop.top/bestv.php?id=qjshd8m/8000000
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚 8M
+https://live.metshop.top/bestv.php?id=shss8m/8000000
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉 8M
+https://live.metshop.top/bestv.php?id=xsjhd8m/8000000
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云 8M
+https://live.metshop.top/bestv.php?id=yxfy8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="其他",热门综艺 8M
+https://live.metshop.top/bestv.php?id=rmzy8m/8000000
+#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="其他",超级体育 8M
+https://live.metshop.top/bestv.php?id=qcsj8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="其他",健康养生 8M
+https://live.metshop.top/bestv.php?id=jkys8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="其他",百变课堂 8M
+https://live.metshop.top/bestv.php?id=bbkt8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="其他",看天下精选 8M
+https://live.metshop.top/bestv.php?id=ktxjx8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="其他",华语影院 8M
+https://live.metshop.top/bestv.php?id=hyyy8m/8000000
+#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="其他",电竞天堂 8M
+https://live.metshop.top/bestv.php?id=djtt8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="其他",青春动漫 8M
+https://live.metshop.top/bestv.php?id=qcdm8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="其他",宝宝动画 8M
+https://live.metshop.top/bestv.php?id=bbdh8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="其他",星光影院 8M
+https://live.metshop.top/bestv.php?id=xgyy8m/8000000
+#EXTINF:-1 tvg-id="红色谍战剧场" tvg-name="红色谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="其他",谍战剧场 8M
+https://live.metshop.top/bestv.php?id=dzjc8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="其他",全球大片 8M
+https://live.metshop.top/bestv.php?id=qqdp8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="其他",热门剧场 8M
+https://live.metshop.top/bestv.php?id=rmjc8m/8000000
+#EXTINF:-1 tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="其他",陶瓷高清 8M
+https://live.metshop.top/bestv.php?id=taocihd/8000000
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育-1 8M
+https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育-4 8M
+https://live.metshop.top/bestv.php?id=zgjy4hd8m/8000000
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿 8M
+https://live.metshop.top/bestv.php?id=kkse8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="其他",纪实科教 8M
+https://live.metshop.top/bestv.php?id=dajs8m/8000000
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他",茶频道 8M
+https://live.metshop.top/bestv.php?id=cpdhdavs8m/8000000
+#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",足球高清 8M
+https://live.metshop.top/bestv.php?id=zqpd8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="其他",炫动卡通 8M
+https://live.metshop.top/bestv.php?id=hhxd8m/8000000
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东方财*.png" group-title="其他",东方财* 8M
+https://live.metshop.top/bestv.php?id=dfcjhd8m/8000000
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场 8M
+https://live.metshop.top/bestv.php?id=dsjc8m/8000000
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场 8M
+https://live.metshop.top/bestv.php?id=dmxc8m/8000000
+#EXTINF:-1 tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",法治天地 8M
+https://live.metshop.top/bestv.php?id=fztd8m/8000000
+#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="其他",金色学堂 8M
+https://live.metshop.top/bestv.php?id=jingsepd8m/8000000
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球 8M
